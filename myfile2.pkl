@@ -1,0 +1,130 @@
+(lp0
+S'Heart attack'
+p1
+aS'Heart failure'
+p2
+aS'High blood pressure'
+p3
+aS'Lung cancer'
+p4
+aS'Dengue fever'
+p5
+aS'Adult asthma'
+p6
+aS'Acute kidney failure'
+p7
+aS'Bronchitis'
+p8
+aS'Cystitis'
+p9
+aS'Diabetes mellitus'
+p10
+aS'Dyslexia'
+p11
+aS'Fever NOS'
+p12
+aS'Gallbladder cancer'
+p13
+aS'Gangrene'
+p14
+aS'Gastritis'
+p15
+aS'Hepatitis A'
+p16
+aS'Hepatitis B'
+p17
+aS'Kidney stone'
+p18
+aS'HIV/AIDS'
+p19
+aS'Acute lymphocytic leukemia'
+p20
+aS'Milk allergy'
+p21
+aS'Brain aneurysm'
+p22
+aS'Anthrax'
+p23
+aS'Back pain or injury NOS'
+p24
+aS'Breast cysts and lumps'
+p25
+aS'Bladder cancer'
+p26
+aS'Eye melanoma'
+p27
+aS'Inflammatory breast cancer'
+p28
+aS'Throat cancer'
+p29
+aS'Ovarian cancer'
+p30
+aS'Thyroid cancer'
+p31
+aS'Cardiomyopathy'
+p32
+aS'Cellulitis'
+p33
+aS'Cervicitis'
+p34
+aS'Cholera'
+p35
+aS'Primary cough headaches'
+p36
+aS'Cyclospora infection'
+p37
+aS'Dysarthria'
+p38
+aS'Folliculitis'
+p39
+aS'Frostbite'
+p40
+aS'Liver failure'
+p41
+aS"Fuchs' dystrophy"
+p42
+aS'Giant cell arteritis'
+p43
+aS'Glaucoma'
+p44
+aS'Glomerulonephritis'
+p45
+aS'H. pylori infection'
+p46
+aS'Sinus headaches'
+p47
+aS'Heatstroke'
+p48
+aS'Juvenile rheumatoid arthritis'
+p49
+aS'Keratitis'
+p50
+aS'Lactose intolerance'
+p51
+aS'Lyme disease'
+p52
+aS'Mesothelioma'
+p53
+aS'Mumps'
+p54
+aS'Overactive bladder'
+p55
+aS"Parkinson's disease"
+p56
+aS'Pericarditis'
+p57
+aS'Pneumonitis'
+p58
+aS'Polio'
+p59
+aS'Pulmonary edema'
+p60
+aS'Pulmonary valve stenosis'
+p61
+aS'Q fever'
+p62
+aS'Spinal cord injury'
+p63
+aS'Renal artery stenosis'
+p64
+a.
